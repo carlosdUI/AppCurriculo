@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "AppCurriculo",
+    "slug": "AppCurriculo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.br.carlinhos"
+    }
+  },
+  "name": "AppCurriculo"
+}
